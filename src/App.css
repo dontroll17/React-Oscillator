@@ -1,6 +1,11 @@
 body {
-  background-color: rgba(140, 180, 207, 0.933);
+  background-color: rgba(116, 159, 192, 0.933);
   font-family: sans-serif;
+  text-align: center;
+}
+
+h3 {
+  padding-top: 10px;
 }
 
 button {
@@ -22,7 +27,7 @@ button:hover {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: rgba(95, 167, 214, 0.933);
+  background-color: rgba(85, 125, 212, 0.933);
   border-radius: 2rem;
 }
 

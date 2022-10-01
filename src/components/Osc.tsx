@@ -1,6 +1,6 @@
-import React from 'react'
+import React from 'react';
 
-function Osc({ change, settings, changeType }: any) {
+function Osc( { change, settings, changeType }: any ) {
     //let [ type, frequency, detune ] = settings;
 
     return (
@@ -67,4 +67,4 @@ function Osc({ change, settings, changeType }: any) {
     )
 }
 
-export default Osc
+export default Osc;
